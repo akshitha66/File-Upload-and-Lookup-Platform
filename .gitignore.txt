@@ -1,0 +1,16 @@
+# Java
+/target
+*.class
+*.log
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.pem
